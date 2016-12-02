@@ -1,0 +1,11 @@
+t™
+C©
+r®
+©
+You can enter any character when you know its number(ctrl+shift+u, u shows up, hexadecimal number, space to confirm)
+© = a9
+® = ae
+¢ = a2
+™ = 2122
+á = e1
+http://fsymbols.com/keyboard/linux/compose/
